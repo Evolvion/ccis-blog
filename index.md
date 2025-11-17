@@ -41,7 +41,7 @@ Not every complex system is a CCIS. Pattern formation without separable code or 
 
 In CCIS language, Elon Musk is a **high-variance hypercode catalyst**: someone who does not just design new products but rewires the meta-protocols behind how systems are built, tested, and launched. He upgrades interpreters as much as he tweaks code.
 
-### An Operator’s Manual for Hypercode Catalysts
+### Manual for Hypercode Catalysts
 
 1. **Set learning rate high.** Launch → land → break → fix → repeat. Expect a few “rapid unscheduled *gradient* events.”
 2. **Let physics grade the homework.** Telemetry beats slide decks.
@@ -86,7 +86,7 @@ Below is one way to view how such layers build on each other over time.
 1. **Physics (substrate)**  
    Provides the lawful constraints under which CCIS systems can emerge.
      
-   - **Code:** Fundamental action & constants; symmetry group; initial/boundary conditions  
+   - **Code:** Fundamental action & constants, symmetry group, initial/boundary conditions  
    - **Interpreter:** Variational principle + RG flow + spacetime geometry (maps code to effective laws at each scale)  
    - **Feedback:** Mathematical consistency, stability/thermodynamics, and RG attractors (fixed points, relevant operators) that prune behaviors
 
