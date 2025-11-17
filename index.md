@@ -71,7 +71,7 @@ In each domain, the key breakthroughs come not just from better ideas (code), bu
 
 ---
 
-## The CCIS Stack (with Transitions)&#x20;
+## The CCIS Stack &#x20;
 
 What qualifies as a CCIS layer? 
 
